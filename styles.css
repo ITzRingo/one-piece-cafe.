@@ -20,11 +20,11 @@ body{   /*this body section will add styles to the whole page*/
 
 .header{
     background-color: rgb(53, 177, 5);
-    height: 75px;
+    height: 150px;
     width: 26%;
     float: left;
     margin-left: 37%;
-    margin-top: 10%;
+    margin-top: 5%;
 }   
 
 
